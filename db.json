@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Network card failed on Server 008",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2019-11-17T04:49:40.597Z"
+    },
+    {
+      "id": 2,
+      "message": "Hard drive failed in workstation 002",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-11-17T05:32:47.699Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Smith",
+      "id": 4
+    },
+    {
+      "firstName": "Sunjot",
+      "lastName": "Kohli",
+      "id": 5
+    }
+  ]
+}
